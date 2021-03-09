@@ -4,7 +4,7 @@ public class Fish extends Animals
 {
      public Fish(String name, int yearDiscovered)
      {
-          super(name, yearDiscoverd);
+          super(name, yearDiscovered);
      }
 
      // FROM ANIMALS
